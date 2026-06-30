@@ -18,4 +18,4 @@ Track crypto prices and solana portfolio values easily using Coinso Tracker!
 </br>
 
 # CONTACT
-![discord @laxp](https://livediscord.xyz/embed/1105506702348005376.png?transparent=false)
+![discord @laxp](http://discordapp.com/users/1342973332231815249)
